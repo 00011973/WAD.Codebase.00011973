@@ -8,10 +8,10 @@ using WAD.Codebase._00011973.Data;
 
 #nullable disable
 
-namespace WAD.Codebase._00011973.Migrations
+namespace WAD.Codebase._00011973.DAL.Migrations
 {
     [DbContext(typeof(JobBoardContext))]
-    [Migration("20241117140420_Main")]
+    [Migration("20241118183632_Main")]
     partial class Main
     {
         /// <inheritdoc />

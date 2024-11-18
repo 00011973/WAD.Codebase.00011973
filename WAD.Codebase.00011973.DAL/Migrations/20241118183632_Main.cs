@@ -2,7 +2,7 @@
 
 #nullable disable
 
-namespace WAD.Codebase._00011973.Migrations
+namespace WAD.Codebase._00011973.DAL.Migrations
 {
     /// <inheritdoc />
     public partial class Main : Migration

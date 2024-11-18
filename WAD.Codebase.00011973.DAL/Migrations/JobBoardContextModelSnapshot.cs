@@ -7,7 +7,7 @@ using WAD.Codebase._00011973.Data;
 
 #nullable disable
 
-namespace WAD.Codebase._00011973.Migrations
+namespace WAD.Codebase._00011973.DAL.Migrations
 {
     [DbContext(typeof(JobBoardContext))]
     partial class JobBoardContextModelSnapshot : ModelSnapshot
